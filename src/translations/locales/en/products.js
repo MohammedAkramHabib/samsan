@@ -1,0 +1,32 @@
+// src/translations/locales/en/products.js
+export default {
+  'products.title': 'Our Products',
+  'products.subtitle': 'Natural nutritional supplements with global standards',
+  'products.featured': 'Featured Products',
+  'products.featuredTitle': 'Best Picks of the Month',
+  'products.featuredBadge': 'Featured',
+  'products.allProducts': 'All Products',
+  'products.search': 'Search products...',
+  'products.size': 'Size',
+  'products.category': 'Category',
+  'products.viewDetails': 'View Details',
+  'products.readMore': 'Read More',
+  'products.noResults': 'No products found',
+  'products.noResultsText': 'We couldn\'t find any products matching your search. Try different keywords.',
+  'products.availableSizes': 'Available Sizes',
+  'products.hashtags': 'Hashtags',
+  'products.relatedArticles': 'Related Articles',
+  'products.readArticle': 'Read Related Articles',
+  'products.comingSoon': 'Articles coming soon',
+
+  'products.hero.badge': 'Premium Quality',
+'products.hero.products': 'Natural Products',
+'products.hero.natural': 'Natural',
+'products.hero.certified': 'Certified',
+
+ 'products.capsule': 'Capsule',
+  'products.capsules': 'Capsules',
+  'products.tablet': 'Tablet',
+  'products.tablets': 'Tablets',
+  'products.size.unit': 'Capsules',
+}; 

@@ -1,0 +1,32 @@
+// src/translations/locales/fr/products.js
+export default {
+  'products.title': 'Nos Produits',
+  'products.subtitle': 'Compléments nutritionnels naturels aux normes mondiales',
+  'products.featured': 'Produits Vedettes',
+  'products.featuredTitle': 'Meilleurs choix du mois',
+  'products.featuredBadge': 'Vedette',
+  'products.allProducts': 'Tous les Produits',
+  'products.search': 'Rechercher un produit...',
+  'products.size': 'Taille',
+  'products.category': 'Catégorie',
+  'products.viewDetails': 'Voir les détails',
+  'products.readMore': 'Lire la suite',
+  'products.noResults': 'Aucun produit trouvé',
+  'products.noResultsText': 'Nous n\'avons trouvé aucun produit correspondant à votre recherche. Essayez d\'autres mots-clés.',
+  'products.availableSizes': 'Tailles disponibles',
+  'products.hashtags': 'Hashtags',
+  'products.relatedArticles': 'Articles connexes',
+  'products.readArticle': 'Lire les articles connexes',
+  'products.comingSoon': 'Articles à venir',
+
+  'products.hero.badge': 'Calidad Premium',
+'products.hero.products': 'Productos Naturales',
+'products.hero.natural': 'Natural',
+'products.hero.certified': 'Certificado',
+
+ 'products.capsule': 'Cápsula',
+    'products.capsules': 'Cápsulas',
+    'products.tablet': 'Tableta',
+    'products.tablets': 'Tabletas',
+    'products.size.unit': 'Cápsulas',
+};
