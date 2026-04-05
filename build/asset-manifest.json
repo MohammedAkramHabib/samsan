@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ee266f05.css",
+    "main.js": "./static/js/main.5a238416.js",
+    "static/media/samOmega.jpg": "./static/media/samOmega.a89bacfad494371cee25.jpg",
+    "static/media/sanJointFlex.jpg": "./static/media/sanJointFlex.d99349568feb6c97056d.jpg",
+    "static/media/samVitaminD3.jpg": "./static/media/samVitaminD3.ed49752c13e0b6771f80.jpg",
+    "static/media/samGery.jpg": "./static/media/samGery.ce1565588c5bcf13c4f0.jpg",
+    "static/media/samCollagen.jpg": "./static/media/samCollagen.b2d7aaf47d1db3dffc33.jpg",
+    "static/media/samNerveHealth.jpg": "./static/media/samNerveHealth.5ab83a855ec72bad2ce9.jpg",
+    "static/media/samCalciumD3.jpg": "./static/media/samCalciumD3.716f66821f72163d2bfd.jpg",
+    "static/media/sam-fero.jpg": "./static/media/sam-fero.43a78a2233707094184d.jpg",
+    "static/media/samQ10.jpg": "./static/media/samQ10.658155973a1d708742f8.jpg",
+    "index.html": "./index.html",
+    "main.ee266f05.css.map": "./static/css/main.ee266f05.css.map",
+    "main.5a238416.js.map": "./static/js/main.5a238416.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee266f05.css",
+    "static/js/main.5a238416.js"
+  ]
+}
